@@ -1,0 +1,15 @@
+{
+  "name": "holamundo",
+  "version": "1.0.0",
+  "description": "Mi primer programa en node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Itzamar Crespo Morales",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "Mi primer programa en node"
+  }
+}
